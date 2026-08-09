@@ -32,7 +32,7 @@ The dataset contains relational data covering:
 - Calendar information
 - Returns
 
-The raw CSV files used for the analysis are included in the `data/` directory.
+The raw CSV files used for the analysis are included in the `dataset/` directory.
 
 > **Dataset Source:** Kaggle  
 > **Note:** The dataset is used for educational and portfolio analysis purposes.
@@ -243,7 +243,7 @@ adventureworks-sql-business-analytics/
 │
 ├── README.md
 │
-├── data/
+├── dataset/
 │   ├── AdventureWorks_Calendar.csv
 │   ├── AdventureWorks_Customers.csv
 │   ├── AdventureWorks_Product_Categories.csv
