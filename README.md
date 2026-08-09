@@ -67,7 +67,7 @@ Other important relationships include:
 
 Revenue was analyzed by month to identify changes in sales activity throughout the year.
 
-![Revenue by Month](images/montly_sales_trend.png)
+![Revenue by Month](images/monthly_sales_trend.png)
 
 ### Key Finding
 
