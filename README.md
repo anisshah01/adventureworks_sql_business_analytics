@@ -262,8 +262,8 @@ adventureworks-sql-business-analytics/
 │
 └── images/
     ├── adventureworks_erd.png
-    ├── revenue_by_month.png
-    ├── top_10_products_by_revenue.png
-    ├── revenue_by_category.png
+    ├── monthly_sales_trend.png
+    ├── top_10_products.png
+    ├── revenue_by_producct_category.png
     ├── revenue_by_region.png
     └── customer_segmentation_by_country.png
