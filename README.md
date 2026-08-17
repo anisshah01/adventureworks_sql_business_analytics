@@ -1,4 +1,4 @@
-# AdventureWorks Sales & Business Analytics using SQL
+ # AdventureWorks Sales & Business Analytics using SQL
 
 ## Project Overview
 
@@ -138,7 +138,7 @@ A small number of regions contributed comparatively little revenue in the availa
 
 ## 5. Customer Segmentation
 
-Customers were segmented into Low Value, Medium Value, and High Value groups based on their revenue contribution.
+Customers were segmented into Low Value (<=2k), Medium Value (<=4k), and High Value (above 4k) groups based on their revenue contribution.
 
 The segmentation was analyzed across countries.
 
